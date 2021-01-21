@@ -1,0 +1,67 @@
+[
+  {
+    "id" : 1,
+    "uid": 4,
+    "title": "Sample Mockup",
+    "designPath": "designPath",
+    "tags": "A. B. C",
+    "categories": "Alpha, Beta, Gamma",
+    "published": "true",
+    "created_at": "1-21-2021",
+    "created_by": "King Alpha",
+    "updated_at": "5:40 Pm",
+    "updated_by": "Admin"
+  },
+  {
+    "id" : 2,
+    "uid": 4,
+    "title": "Sample Mockup",
+    "designPath": "designPath",
+    "tags": "A. B. C",
+    "categories": "Alpha, Beta, Gamma",
+    "published": "true",
+    "created_at": "1-21-2021",
+    "created_by": "King Alpha",
+    "updated_at": "5:40 Pm",
+    "updated_by": "Admin"
+  },
+  {
+    "id" : 3,
+    "uid": 4,
+    "title": "Sample Mockup",
+    "designPath": "designPath",
+    "tags": "A. B. C",
+    "categories": "Alpha, Beta, Gamma",
+    "published": "true",
+    "created_at": "1-21-2021",
+    "created_by": "King Alpha",
+    "updated_at": "5:40 Pm",
+    "updated_by": "Admin"
+  },
+  {
+    "id" : 4,
+    "uid": 4,
+    "title": "Sample Mockup",
+    "designPath": "designPath",
+    "tags": "A. B. C",
+    "categories": "Alpha, Beta, Gamma",
+    "published": "true",
+    "created_at": "1-21-2021",
+    "created_by": "King Alpha",
+    "updated_at": "5:40 Pm",
+    "updated_by": "Admin"
+  },
+  {
+    "id" : 5,
+    "uid": 4,
+    "title": "Sample Mockup",
+    "designPath": "designPath",
+    "tags": "A. B. C",
+    "categories": "Alpha, Beta, Gamma",
+    "published": "true",
+    "created_at": "1-21-2021",
+    "created_by": "King Alpha",
+    "updated_at": "5:40 Pm",
+    "updated_by": "Admin"
+  }
+]
