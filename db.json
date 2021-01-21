@@ -24,7 +24,8 @@
     "created_at": "1-21-2021",
     "created_by": "King Alpha",
     "updated_at": "5:40 Pm",
-    "updated_by": "Admin"
+    "updated_by": "Admin",
+    "update_action": "Edit"
   },
   {
     "id" : 3,
@@ -93,7 +94,8 @@
     "created_at": "1-21-2021",
     "created_by": "King Alpha",
     "updated_at": "5:40 Pm",
-    "updated_by": "Admin"
+    "updated_by": "Admin",
+    "update_action": "Edit"
   },
   {
     "id" : 8,
